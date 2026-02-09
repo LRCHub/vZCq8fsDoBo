@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "純情サクリファイス Parallel ver.",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-09T03:53:48.642122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "純情サクリファイス Parallel ver.",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_純情サクリファイス_Parallel_ver._藍月なくる.txt"
+    }
+  ]
+}
